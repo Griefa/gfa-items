@@ -1,4 +1,4 @@
-# gfa-items v1.0.0
+# gfa-items v1.0.1
 
 + In desperate need for images for your server? Then you have come to the right place. This repo contains items either created by myself and/or items from other scripts that I have either purchased or got off GitHub.
 + If you can't find an image, create an issue and I'll try and find/create it for you. If you manage to find some items then please feel free to submit a Pull Request so other people can find some use for it.
@@ -18,4 +18,8 @@
         - qb-inventory/html/images
         - lj-inventory/html/images
         - ox_inventory/web/images
+
+## Updates
+    04/05/23 - v1.0.1
+    - Added over 60 new ingredient images
 
