@@ -24,5 +24,8 @@
     - Added over 60 new ingredient images
 
      17/05/23 - v1.0.2
-    - Added some houserobbery items
+    - Added some houserobbery images
+    - Added Businesses Folder
+    - Added Burgershot images
+    - Added UwU Cafe images
 
